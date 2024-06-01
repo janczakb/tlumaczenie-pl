@@ -74,7 +74,7 @@
     "FAILED_TO_SAVE_EDIT": "Nie udało się zapisać! Spróbuj ponownie później.",
     "COMMENT_MENU_EDIT": "Edytuj",
     "COMMENT_MENU_DELETE": "Usuń",
-    "DELETE_CONFIRM": "Kasować",
+    "DELETE_CONFIRM": "Usuń",
     "DELETED_PLACEHOLDER": "[usunięto]",
     "DELETE_CONFIRMATION_MESSAGE": "Czy na pewno chcesz usunąć ten komentarz?",
     "DELETING": "Usuwam ...",
